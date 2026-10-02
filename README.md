@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=190&section=header&text=L%C3%AA%20Qu%C3%BD%20Thi%E1%BB%87n&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/lequythien">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&lines=Web+Developer;Frontend+Developer;React+%7C+Next.js+%7C+MUI;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Developer;React+%7C+Next.js+%7C+MUI;Building+Modern+Web+Applications" />
 </a>
 
 <br/><br/>
